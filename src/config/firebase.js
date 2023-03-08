@@ -1,4 +1,5 @@
 import { initializeApp } from "firebase/app";
+
 const firebaseConfig = {
   apiKey: "AIzaSyAKS1uKR-Vdhg_poUn3Sz47h_R8HV84Z8w",
   authDomain: "fb-testing-4d315.firebaseapp.com",
